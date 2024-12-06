@@ -14,7 +14,9 @@ html{
 
 #myCanvas {
   border-radius: 30px;
-  border: 15px double #8bbcbbff;
+ border: 15px double #8bbcbbff; 
+  background-color: 
+#889076
 }
 
 .container{
