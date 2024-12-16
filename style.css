@@ -3,7 +3,7 @@ body {
   text-align: center;
   background-size: cover;
   background-image:conic-gradient(#889076, black, #889076,#889076,black,#889076, #889076, black,#889076,#889076,black,#889076);
-  margin-top: 8%;
+  margin-top: 25px;
   
 }
 
@@ -23,10 +23,10 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: rgb(0,0,0,.5);
+  background-image:conic-gradient(black, #889076,#889076,black,#889076, #889076, black,#889076,#889076,black,#889076,#889076,black);
   justify-content: center;
   align-items: center;
-
+margin:15px;
 }
 
 .pic{
